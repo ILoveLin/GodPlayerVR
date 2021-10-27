@@ -1,0 +1,7 @@
+include ':lib_fileviewer'
+include ':widget'
+include ':base'
+include ':commonlib'
+include ':libvlc'
+include ':app'
+rootProject.name = "LCarePlayer"
