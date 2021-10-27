@@ -72,6 +72,7 @@ public class VideoFragment extends BaseFragment implements VideoAdapter.ClickCal
     SmartRefreshLayout mSmartRefresh;
     private TextView mAccountView, mPasswordView, mTitleView, mMessageView, mPortView,  mTypeSelecter;
 //    private TextView micPortView;
+    
     private ClearEditText mTypeView, mIPView;
     private ArrayList<VideoDBBean01> mDataList = new ArrayList<>();
     private List currentRecycleViewList = null;
